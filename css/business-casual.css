@@ -55,7 +55,7 @@ hr {
 }
 
 .img-full {
-    min-width: 100%;
+    min-width: 80%;
 }
 
 .brand-before,
@@ -80,7 +80,7 @@ hr {
 
 .box {
     margin-bottom: 20px;
-    padding: 30px 15px;
+    padding: 20px 15px;
     background: #fff;   
     background: rgba(255,255,255,0.9);
 }
@@ -185,7 +185,7 @@ footer p {
     }
 }
 
-@media screen and (min-width:1200px) {
+@media screen and (min-width:600px) {
     .box:after {
         content: '';
         display: table;
